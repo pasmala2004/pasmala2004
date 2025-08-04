@@ -22,6 +22,8 @@ Analyzed simulation data to extract meaningful insights and trends. Built intera
 **Tools**: Python, Excel , Matplotlib , Pandas
 **Skills**: Time Series Analysis, Reporting
 
+---
+
 ### Job Postings Analysis (https://github.com/pasmala2004/Job-Postings-Analysis)
 Analyzed simulation data to extract meaningful insights and trends. Built interactive visualizations to communicate findings.
 
