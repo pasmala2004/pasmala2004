@@ -6,9 +6,9 @@ I’m currently focused on analyzing real-world datasets and building insightful
 
 ---
 
--> Projects
+## Projects
 
-### [Earthquake Analysis with Python] (https://github.com/pasmala2004/Earthquake-Prediction-Project)
+### Earthquake Analysis with Python (https://github.com/pasmala2004/Earthquake-Prediction-Project)
 Exploratory data analysis on global earthquake data, identifying trends, magnitude distribution, and regional patterns using Python libraries.
 
 **Tools**: Python, Pandas, Matplotlib, Seaborn  
@@ -16,7 +16,7 @@ Exploratory data analysis on global earthquake data, identifying trends, magnitu
 
 ---
 
-### [Business Simulation Data Analysis] (https://github.com/pasmala2004/Business-Simulation-Project)
+### Business Simulation Data Analysis (https://github.com/pasmala2004/Business-Simulation-Project)
 Analyzed simulation data to extract meaningful insights and trends. Built interactive visualizations to communicate findings.
 
 **Tools**: Python, Excel , Matplotlib , Pandas
@@ -24,7 +24,7 @@ Analyzed simulation data to extract meaningful insights and trends. Built intera
 
 ---
 
--> Skills
+## Skills
 
 - **Languages**: Python, SQL  
 - **Tools**: Excel, Power BI, Tableau  
@@ -33,7 +33,7 @@ Analyzed simulation data to extract meaningful insights and trends. Built intera
 
 ---
 
--> Certificates
+## Certificates
 
 - NTI Machine Learning for Data Analysis
 - Sprints Data analysis 
@@ -41,9 +41,9 @@ Analyzed simulation data to extract meaningful insights and trends. Built intera
 
 ---
 
--> Contact Me
+## Contact Me
 
-- [LinkedIn] (www.linkedin.com/in/basmala-hesham-86099a1a8)  
-- [GitHub] (https://github.com/pasmala2004)  
+- LinkedIn (www.linkedin.com/in/basmala-hesham-86099a1a8)  
+- GitHub (https://github.com/pasmala2004)  
 
 ---
