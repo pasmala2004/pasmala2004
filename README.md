@@ -1,6 +1,6 @@
 # Hi, I'm Basmala 👋
 
-🎓 **Computer Science Student**
+ **Computer Science Student**
 I'm currently a senior-year Computer Science student with a strong interest in data and machine learning. I enjoy working with data, building projects, and continuously improving my technical skills.
 
 ## What I'm Currently Learning
@@ -24,7 +24,7 @@ I'm currently a senior-year Computer Science student with a strong interest in d
 * Git & GitHub
 * Azure
 
-## 📫 Connect With Me
+## Connect With Me
 
 * **LinkedIn:** www.linkedin.com/in/basmala-hesham-86099a1a8
 
