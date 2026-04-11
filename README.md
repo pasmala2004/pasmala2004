@@ -23,5 +23,5 @@ Currently building my expertise in Data Analysis and Machine Learning.
 ---
 
 ## Let's Connect
-[![LinkedIn](www.linkedin.com/in/basmala-hesham-86099a1a8)]
-[![GitHub](https://github.com/pasmala2004)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/basmala-hesham-86099a1a8)
+[![GitHub](https://img.shields..io/badge/GitHub-black?style=flat&logo=github)]([https://github.com/your-username](https://github.com/pasmala2004))
