@@ -1,33 +1,27 @@
-# Hi, I'm Basmala 👋
+# Hi, I'm Basmala👋
 
- **Computer Science Student**
-I'm currently a senior-year Computer Science student with a strong interest in data and machine learning. I enjoy working with data, building projects, and continuously improving my technical skills.
-
-## What I'm Currently Learning
-
-* **Python** for data analysis and machine learning
-* **SQL** for database querying and data manipulation
-* **Microsoft Azure** for cloud and data services
-
-## Interests
-
-* Data Analysis
-* Machine Learning
-* Cloud Technologies
-* Building practical projects that solve real problems
-
-## Tools & Technologies
-
-* Python
-* SQL / PostgreSQL
-* Power BI
-* Git & GitHub
-* Azure
-
-## Connect With Me
-
-* **LinkedIn:** www.linkedin.com/in/basmala-hesham-86099a1a8
+A Computer Science student passionate about turning data into business decisions.
+Currently building my expertise in Data Analysis and Machine Learning.
 
 ---
 
-⭐ Feel free to explore my repositories to see the projects I'm working on and the skills I'm developing.
+## Skills
+
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+**Tools:** Power BI, Tableau, Excel, Git, GitHub  
+**Fundamentals:** Algorithms, Data Structures, OOP, Image Processing  
+
+---
+
+
+## Currently Working On
+- Building my Data Analysis portfolio
+- Learning advanced SQL and Machine Learning
+- Open to junior Data Analyst and ML roles in Egypt
+
+---
+
+## Let's Connect
+[![LinkedIn](www.linkedin.com/in/basmala-hesham-86099a1a8)
+[![GitHub](https://github.com/pasmala2004)
