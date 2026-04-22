@@ -52,7 +52,7 @@ printable 3D models using state-of-the-art AI.
 - 📈 Building my Data Analysis portfolio
 - 🤖 Learning advanced ML and model deployment
 - 🔍 Open to junior Data Analyst and ML roles in Egypt
-- 
+  
 ---
 
 ## Let's Connect
