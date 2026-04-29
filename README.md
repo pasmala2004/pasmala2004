@@ -8,7 +8,7 @@ Currently building **Etbaly**, an AI-powered 3D printing platform that converts 
 
 ## What I Build
 
-**Etbaly AI Platform** · [repo]([https://github.com/pasmala2004](https://github.com/pasmala2004/Etbaly-AI-Platform))
+**Etbaly AI Platform** · [repo](https://github.com/pasmala2004/Etbaly-AI-Platform)
 > End-to-end pipeline: text or image → AI-generated 3D model → validated, sliced, print-ready STL file.
 - Integrated Hunyuan3D-2mini (image → 3D) and HunyuanDiT (text → image)
 - Built Flask REST API serving two models on a T4 GPU via Lightning.ai
