@@ -8,17 +8,17 @@ Currently building **Etbaly**, an AI-powered 3D printing platform that converts 
 
 ## What I Build
 
-**Etbaly AI Platform** · [repo](https://github.com/pasmala2004)
+**Etbaly AI Platform** · [repo]([https://github.com/pasmala2004](https://github.com/pasmala2004/Etbaly-AI-Platform))
 > End-to-end pipeline: text or image → AI-generated 3D model → validated, sliced, print-ready STL file.
 - Integrated Hunyuan3D-2mini (image → 3D) and HunyuanDiT (text → image)
 - Built Flask REST API serving two models on a T4 GPU via Lightning.ai
 - Built STL printability checker and 3-profile slicer (fine / standard / draft)
 - Stack: Python · PyTorch · Flask · Diffusers · trimesh · Lightning.ai
 
-**Movie Revenue Predictor** · [repo](https://github.com/pasmala2004/movie-revenue)
+**Movie Revenue Predictor** · [repo](https://github.com/pasmala2004/movie-revenue-predictor)
 > ML regression pipeline predicting box office revenue from pre-release features.
 
-**Sales Analytics Pipeline** · [repo](https://github.com/pasmala2004/sales-analysis-project)
+**Sales Analytics Pipeline** · [repo](https://github.com/pasmala2004/sales-analysis-pipeline)
 > End-to-end sales data analysis with actionable business insights and visual storytelling.
 
 ---
@@ -31,13 +31,6 @@ Currently building **Etbaly**, an AI-powered 3D printing platform that converts 
 `Python` `Git` `OOP` `Algorithms`
 
 ---
-
-## Currently
-
-- Shipping Etbaly v1 production API
-- Building an NLP project (intent classification / RAG)
-- Open to junior **ML Engineer** and **Applied AI** roles in Egypt and remote
-
 
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/basmala-hesham-86099a1a8)
