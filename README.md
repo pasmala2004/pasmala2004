@@ -2,8 +2,6 @@
 
 Applied AI & Machine Learning Engineer — I build AI systems that go from model to deployed API.
 
-Currently building **Etbaly**, an AI-powered 3D printing platform that converts text and images into print-ready 3D models using state-of-the-art generative models, served on GPU.
-
 ---
 
 ## What I Build
