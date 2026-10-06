@@ -1,35 +1,25 @@
-# Hi, I'm Basmala 👋
+# Hi, I'm Basmala Hesham
 
-Applied AI & Machine Learning Engineer — I build AI systems that go from model to deployed API.
+**AI Engineer: predictive & agentic AI.** Computer Science graduate (Minia University, 2026), currently in the NTI HireReady Agentic AI track.
 
----
+I build LLM agents, RAG pipelines, and multimodal systems, and I like turning them into working products.
 
-## What I Build
+[Portfolio](https://my-portfolio-three-gamma-rrewqlf3zm.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/basmala-hesham-86099a1a8) · [Email](mailto:Basmala.hesham2004@gmail.com)
 
-**Etbaly AI Platform** · [repo](https://github.com/pasmala2004/Etbaly-AI-Platform)
-> End-to-end pipeline: text or image → AI-generated 3D model → validated, sliced, print-ready STL file.
-- Integrated Hunyuan3D-2mini (image → 3D) and HunyuanDiT (text → image)
-- Built Flask REST API serving two models on a T4 GPU via Lightning.ai
-- Built STL printability checker and 3-profile slicer (fine / standard / draft)
-- Stack: Python · PyTorch · Flask · Diffusers · trimesh · Lightning.ai
+## Featured projects
 
-**Movie Revenue Predictor** · [repo](https://github.com/pasmala2004/movie-revenue-predictor)
-> ML regression pipeline predicting box office revenue from pre-release features.
+- **[Imaginu](https://github.com/pasmala2004/Imaginu)**: an image-generation agent built with LangGraph. It moderates and enhances prompts, translates Arabic to English, and generates images with Stable Diffusion 3. Stack: LangGraph, Groq, Flask.
+- **Ticket-Easy AI Support Agent**: an e-commerce support agent that answers from company documents with citations, verifies identity, opens tickets, and hands hard cases to a human. It uses hybrid multilingual RAG (English, Egyptian Arabic, Arabizi) and MCP tools.
+- **Etbaly**: a text/image-to-3D pipeline (HunyuanDiT, Hunyuan3D-2mini) served by Flask APIs on Lightning.ai, with G-code slicing for 3D printing.
+- **DataPilot**: a verified Excel analyst agent. A router sends requests to agents that use an Excel MCP server, with observation and retry before the final report.
 
-**Sales Analytics Pipeline** · [repo](https://github.com/pasmala2004/sales-analysis-pipeline)
-> End-to-end sales data analysis with actionable business insights and visual storytelling.
+## Tech stack
 
----
-
-## Skills
-
-`PyTorch` `Scikit-learn` `Diffusers` `Transformers` `Computer Vision` `Generative AI`  
-`Flask` `REST APIs` `GPU Serving` `Lightning.ai`  
-`Pandas` `NumPy` `SQL` `Matplotlib` `Seaborn` `Power BI` `Tableau`  
-`Python` `Git` `OOP` `Algorithms`
-
----
-
-## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/basmala-hesham-86099a1a8)
-[![Email](https://img.shields.io/badge/gmail-wight?style=flat&logo=gmail)](basmala.hesham2004@gmail.com)
+| Area | Tools |
+|---|---|
+| Agentic AI | LangChain, LangGraph, MCP, n8n, multi-agent workflows |
+| NLP & transformers | LSTM, fine-tuning (full and parameter-efficient), RAG |
+| Vision & multimodal | ViT, VLMs, multimodal pipelines |
+| Deep learning | PyTorch, HuggingFace Transformers and Diffusers |
+| Predictive ML | Scikit-learn, XGBoost, Pandas, NumPy, SHAP |
+| Deployment & MLOps | Docker, Flask, MLflow |
