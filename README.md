@@ -9,7 +9,7 @@ I build LLM agents, RAG pipelines, and multimodal systems, and I like turning th
 
 - **[Imaginu](https://github.com/pasmala2004/Imaginu)**: an image-generation agent built with LangGraph. It moderates and enhances prompts, translates Arabic to English, and generates images with Stable Diffusion 3. Stack: LangGraph, Groq, Flask.
 - **[Ticket-Easy](https://github.com/pasmala2004/Ticket-Easy)**: an e-commerce support agent that answers from company documents with citations, verifies identity, opens tickets, and hands hard cases to a human. It uses hybrid multilingual RAG (English, Egyptian Arabic, Arabizi) and MCP tools.
-- **[Etbaly](https://github.com/pasmala2004/Etbaly-AI-Platform)**: a text/image-to-3D pipeline (HunyuanDiT, Hunyuan3D-2mini) served by Flask APIs on Lightning.ai, with G-code slicing for 3D printing.
+- **[Etbaly](https://github.com/pasmala2004/Etbaly_AI)**: a text/image-to-3D pipeline (HunyuanDiT, Hunyuan3D-2mini) served by Flask APIs on Lightning.ai, with G-code slicing for 3D printing.
 - **[DataPilot](https://github.com/pasmala2004/DataPilot)**: a verified Excel analyst agent. A router sends requests to agents that use an Excel MCP server, with observation and retry before the final report.
 
 ## Tech stack
