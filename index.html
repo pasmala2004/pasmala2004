@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Basmala Hesham | ML / AI Engineer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eef0f6;--ink:#1b1f3b;--mute:#5a6082;--line:#cfd3e4;--accent:#5b3df5;--gold:#f2b632;--card:#fff}
+*{box-sizing:border-box;margin:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font:17px/1.65 "IBM Plex Sans",system-ui,sans-serif}
+h1,h2,h3{font-family:"Space Grotesk",system-ui,sans-serif;line-height:1.1}
+a{color:var(--accent)}
+:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
+.wrap{max-width:960px;margin:0 auto;padding:0 24px}
+nav{display:flex;gap:22px;justify-content:flex-end;padding:22px 0;font-weight:500}
+nav a{color:var(--ink);text-decoration:none}
+nav a:hover{color:var(--accent)}
+.hero{padding:50px 0 80px}
+.hero h1{font-size:clamp(2.6rem,6vw,4.4rem);font-weight:700;letter-spacing:-.03em}
+.hero p{max-width:34ch;margin:18px 0 26px;color:var(--mute);font-size:1.15rem}
+.btn{display:inline-block;padding:12px 22px;border-radius:8px;background:var(--ink);color:#fff;text-decoration:none;font-weight:500;margin-right:10px}
+.btn.alt{background:transparent;color:var(--ink);border:2px solid var(--ink);padding:10px 20px}
+section{padding:56px 0;border-top:1px solid var(--line)}
+section>.wrap>h2{font-size:2rem;margin-bottom:28px}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:22px}
+.card{background:var(--card);border-radius:14px;padding:26px;border:1px solid var(--line)}
+.card h3{font-size:1.35rem;margin-bottom:8px}
+.card p{color:var(--mute);font-size:.98rem}
+.tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.tags span{background:#e7e3ff;color:#3a24b8;padding:3px 11px;border-radius:99px;font-size:.82rem;font-weight:500}
+.card a{display:inline-block;margin-top:14px;font-weight:500}
+.skills{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.skills h3{font-size:1.05rem;margin-bottom:8px}
+.skills p{color:var(--mute);font-size:.97rem}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.facts b{display:block;font:700 2.2rem "Space Grotesk",sans-serif;color:var(--accent)}
+footer{padding:50px 0 70px;border-top:1px solid var(--line)}
+footer h2{font-size:2rem;margin-bottom:12px}
+footer p{margin-bottom:18px;color:var(--mute)}
+@media(max-width:760px){.hero,.grid,.skills,.facts{grid-template-columns:1fr}nav{justify-content:flex-start;flex-wrap:wrap}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<nav aria-label="Main"><a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#about">About</a><a href="#contact">Contact</a></nav>
+
+<header class="hero">
+  <div>
+    <h1>Basmala Hesham</h1>
+    <p>ML / AI engineer building agentic systems: LLM agents, RAG, and generative AI that work end to end.</p>
+    <a class="btn" href="#projects">See my projects</a><a class="btn alt" href="#contact">Get in touch</a>
+  </div>
+</header>
+</div>
+
+<section id="projects"><div class="wrap">
+<h2>Projects</h2>
+<div class="grid">
+  <article class="card">
+    <h3>DataPilot</h3>
+    <p>A verified Excel analyst agent. A router sends each request to the right agent, which uses a custom Excel MCP server with 6 tools. An observation step retries or finishes, then the system writes the report.</p>
+    <div class="tags"><span>Multi-agent</span><span>MCP</span><span>Excel</span><span>OpenRouter</span></div>
+  </article>
+  <article class="card">
+    <h3>Imaginu</h3>
+    <p>An image-generation agent for cooking. It moderates and enhances prompts, translates Arabic to English, and generates images with Stable Diffusion 3. Next: image to recipe and video to ingredients.</p>
+    <div class="tags"><span>LangGraph</span><span>Stable Diffusion 3</span><span>Flask</span><span>Groq</span></div>
+    <a href="https://github.com/pasmala2004/Imaginu">View on GitHub</a>
+  </article>
+  <article class="card">
+    <h3>Etbaly: text/image to 3D</h3>
+    <p>My Minia University graduation project. A pipeline that turns text or images into 3D models (HunyuanDiT, Hunyuan3D-2mini), deployed as two Flask API services on Lightning.ai with an Express.js/Vercel backend. It also slices approved models into G-code for printing and reorients objects to need fewer supports.</p>
+    <div class="tags"><span>Hunyuan3D</span><span>Flask</span><span>Express.js</span><span>G-code</span></div>
+  </article>
+  <article class="card">
+    <h3>Ticket-Easy AI Support Agent</h3>
+    <p>My NTI graduation project: an e-commerce support agent that answers from company documents with citations, verifies identity, checks orders, and opens tickets. Unsafe actions are blocked and hard cases go to a human operator. It uses hybrid RAG in English, Egyptian Arabic, and Arabizi, with a fail-closed policy gate.</p>
+    <div class="tags"><span>LangGraph</span><span>MCP</span><span>Hybrid RAG</span><span>Multilingual</span></div>
+  </article>
+</div>
+</div></section>
+
+<section id="skills"><div class="wrap">
+<h2>Skills</h2>
+<div class="skills">
+  <div><h3>Agentic AI &amp; orchestration</h3><p>LangChain, LangGraph, MCP, n8n, multi-agent workflows, prompt pipelines</p></div>
+  <div><h3>NLP &amp; transformers</h3><p>LSTM, full and parameter-efficient fine-tuning, RAG pipelines</p></div>
+  <div><h3>Computer vision &amp; multimodal</h3><p>Vision Transformers (ViT), Vision-Language Models (VLM), multimodal pipelines</p></div>
+  <div><h3>Predictive ML</h3><p>Scikit-learn, Pandas, NumPy, feature engineering, model evaluation, SHAP</p></div>
+  <div><h3>Deployment &amp; MLOps</h3><p>Docker, Flask APIs, MLflow experiment tracking</p></div>
+  <div><h3>Deep learning &amp; GenAI</h3><p>PyTorch, HuggingFace Transformers and Diffusers, XGBoost</p></div>
+</div>
+</div></section>
+
+<section id="about"><div class="wrap">
+<h2>About</h2>
+<p style="max-width:62ch;margin-bottom:30px">Computer Science graduate (Minia University, 2026) with project-based experience across predictive ML and agentic AI. 
+Currently deepening hands-on skills across NLP, transformer architectures, RAG, multimodal/VLM systems, and multi-agent 
+orchestration. Looking for a role where I can grow into production-grade AI systems while contributing real feature work . </p>
+</div></section>
+
+<footer id="contact"><div class="wrap">
+<h2>Contact</h2>
+<p>Open to ML / AI engineer roles.</p>
+<a class="btn" href="mailto:Basmala.hesham2004@gmail.com">Basmala.hesham2004@gmail.com</a>
+<a class="btn alt" href="https://github.com/pasmala2004">GitHub</a>
+<a class="btn alt" href="https://www.linkedin.com/in/basmala-hesham-86099a1a8">LinkedIn</a>
+</div></footer>
+</body>
+</html>
