@@ -1,7 +1,6 @@
 # Hi, I'm Basmala Hesham
 
 **AI Engineer: predictive & agentic AI.** Computer Science graduate (Minia University, 2026), currently in the NTI HireReady Agentic AI track.
-
 I build LLM agents, RAG pipelines, and multimodal systems, and I like turning them into working products.
 
 [Portfolio](https://my-portfolio-three-gamma-rrewqlf3zm.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/basmala-hesham-86099a1a8) · [Email](mailto:Basmala.hesham2004@gmail.com)
